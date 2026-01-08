@@ -1,0 +1,45 @@
+{
+  "predictions": [
+    {
+      "id": "BTCUSDT_15m_1767803702.846835",
+      "token": "BTCUSDT",
+      "timeframe": "15m",
+      "timestamp": "2026-01-07T08:35:02.846849",
+      "bias": "Bearish Bias",
+      "strength": 16.666666666666664,
+      "entry_price": 91400.0,
+      "key_levels": {
+        "support": 91280.67666666667,
+        "resistance": 91571.97666666667,
+        "pivot": 91452.65333333334
+      },
+      "confluences": {
+        "bullish_count": 0,
+        "bearish_count": 3,
+        "neutral_count": 2,
+        "bullish_indicators": [],
+        "bearish_indicators": [
+          "EMA Alignment",
+          "Price vs EMA 21",
+          "MACD"
+        ]
+      },
+      "technical_snapshot": {
+        "RSI_14": 38.498954959496025,
+        "MACD": -214.08173884380085,
+        "ADX": 24.009424483884736,
+        "BB_Position": 0.16255560459409074,
+        "Volume_Ratio": 0.35313372935947107,
+        "CMF": -0.14411829993845962
+      },
+      "validation": {
+        "validated": false,
+        "validation_time": "2026-01-07T09:35:02.846864",
+        "result": null,
+        "actual_move": null,
+        "accuracy": null
+      }
+    }
+  ],
+  "stats": {}
+}
